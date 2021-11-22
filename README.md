@@ -16,3 +16,4 @@ click these links and download everything we need.
 
 ### Second
 Open [this notebook](https://github.com/matsutakk/pancancer/blob/main/pancancer.ipynb) and execute one by one.
+Before that, you should unzip data and move it to the right place for you.
