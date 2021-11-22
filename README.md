@@ -3,7 +3,7 @@
 This repository is for downloading data to do experiments in [this repo](https://github.com/guilopgar/GeneExpImgTL)
 
 ## TL;DR
-~~Get pickle file (pandas DataFrame) from [here](https://github.com/matsutakk/pancancer/blob/main/pickled_data/)~~, 
+~~Get pickle file (pandas DataFrame) from [here](https://github.com/matsutakk/pancancer/blob/main/pickled_data/)~~. 
 Sorry expression data is too big to be uploaded. ./pickled_data folder only have data except gene expression.
 
 ## Step
