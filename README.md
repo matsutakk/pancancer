@@ -4,7 +4,7 @@ This repository is for downloading data to do experiments in [this repo](https:/
 
 
 ## TL;DR
-Get pickle file (pandas DataFrame) from [here]().
+Get pickle file (pandas DataFrame) from [here](https://github.com/matsutakk/pancancer/blob/main/pickled_data/).
 
 ## Step
 
@@ -15,4 +15,4 @@ click these links and download everything we need.
 - https://github.com/cognoma/cancer-data/blob/383668e12a80ccbcc75a4930023aed16afbd208b/download/Survival_SupplementalTable_S1_20171025_xena_sp.tsv.gz
 
 ## Second
-Open [this notebook]() and execute one by one.
+Open [this notebook](https://github.com/matsutakk/pancancer/blob/main/pancancer.ipynb) and execute one by one.
